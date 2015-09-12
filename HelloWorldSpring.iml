@@ -31,7 +31,6 @@
     <orderEntry type="library" name="Maven: org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec:1.0.0.Final" level="project" />
     <orderEntry type="library" name="Maven: org.jboss.spec.javax.servlet.jsp:jboss-jsp-api_2.2_spec:1.0.0.Final" level="project" />
     <orderEntry type="library" name="Maven: org.jboss.spec.javax.el:jboss-el-api_2.2_spec:1.0.0.Final" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.xalan:xalan:2.7.1-1.jbossorg" level="project" />
     <orderEntry type="library" name="Maven: org.rythmengine:spring-rythm:1.0" level="project" />
     <orderEntry type="library" name="Maven: org.rythmengine:rythm-engine:1.0" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jdt.core.compiler:ecj:4.3.1" level="project" />
@@ -41,9 +40,6 @@
     <orderEntry type="library" name="Maven: org.mvel:mvel2:2.1.5.Final" level="project" />
     <orderEntry type="library" name="Maven: org.osgl:osgl-tool:0.2" level="project" />
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.8" level="project" />
-    <orderEntry type="library" name="Maven: xalan:xalan:2.7.1" level="project" />
-    <orderEntry type="library" name="Maven: xalan:serializer:2.7.1" level="project" />
-    <orderEntry type="library" name="Maven: xml-apis:xml-apis:1.3.04" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:4.1.1.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:4.1.1.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />
