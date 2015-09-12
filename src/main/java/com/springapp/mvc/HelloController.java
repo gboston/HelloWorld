@@ -26,7 +26,7 @@ public class HelloController {
 	@RequestMapping(method = RequestMethod.GET)
 	@ResponseBody
 	public String hi(){
-		return "hello";
+		return "Hoi dit is een kleine test!!!!";
 	}
 }
 
